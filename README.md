@@ -42,6 +42,10 @@ Navigate to `http://localhost:5173` to view the app.
 This project is deployed and hosted on Netlify. You can access the live application here:
 **[Cohortis Live App](https://cohortis.netlify.app/)**
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
 ## 👥 The Team
 
 Crafted with ❤️ by:
