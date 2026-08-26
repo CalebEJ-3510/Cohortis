@@ -1,8 +1,10 @@
 # Cohortis (VITalWatch Base) 🧬
 
-An advanced, offline-first Clinical Trial Management System (CTMS) designed to seamlessly match patients with complex oncological protocols. Built for speed, privacy, and precision.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cohortis/deploy-status)](https://cohortis.netlify.app/)
 
-![Cohortis UI Preview](https://github.com/CalebEJ-3510/VITalWatch-base/assets/placeholder) <!-- Replace with actual screenshot later -->
+**Live Demo: [https://cohortis.netlify.app/](https://cohortis.netlify.app/)**
+
+An advanced, offline-first Clinical Trial Management System (CTMS) designed to seamlessly match patients with complex oncological protocols. Built for speed, privacy, and precision.
 
 ## 🌟 Features
 
@@ -18,7 +20,7 @@ An advanced, offline-first Clinical Trial Management System (CTMS) designed to s
 
 *   **Framework:** React 19 + TypeScript
 *   **Build Tool:** Vite 8 (Rolldown)
-*   **Routing:** TanStack Router (Hash-based for static hosting compatibility)
+*   **Routing:** TanStack Router
 *   **Styling:** Tailwind CSS v4 + `tw-animate-css`
 *   **Components:** Radix UI (`lucide-react` for icons)
 *   **State Management:** React Hooks + Local Storage (Zod validation)
@@ -35,15 +37,10 @@ npm run dev
 
 Navigate to `http://localhost:5173` to view the app.
 
-## 🌐 Deployment (GitHub Pages)
+## 🌐 Deployment
 
-This project is configured to deploy automatically to GitHub Pages via GitHub Actions.
-
-1. Push to the `main` branch.
-2. Go to **Settings > Pages** in your GitHub repository.
-3. Ensure the source is set to GitHub Actions (or the `gh-pages` branch if using the legacy deploy action).
-
-*Note: Because this is a static host, the app uses Hash Routing (`/#/sponsor`) to ensure URLs work without a dedicated backend server.*
+This project is deployed and hosted on Netlify. You can access the live application here:
+**[Cohortis Live App](https://cohortis.netlify.app/)**
 
 ## 👥 The Team
 
