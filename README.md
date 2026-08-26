@@ -1,7 +1,5 @@
 # Cohortis (VITalWatch Base) 🧬
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cohortis/deploy-status)](https://cohortis.netlify.app/)
-
 **Live Demo: [https://cohortis.netlify.app/](https://cohortis.netlify.app/)**
 
 An advanced, offline-first Clinical Trial Management System (CTMS) designed to seamlessly match patients with complex oncological protocols. Built for speed, privacy, and precision.
